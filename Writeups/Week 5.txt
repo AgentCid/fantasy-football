@@ -1,0 +1,13 @@
+You’ve only had me for a week, and it’s already time for my farewell analysis. This is Bear “Hands” McGraw, legendary baseball player and color commentator, back for another week of Statistical Anomalies, where we use the modern powers of “computation” and “math” to give seemingly useless stats that could help you win the championship.
+
+Scores happened.
+
+But, what you’re really concerned about (and you should be), is the advice that will make you win games. This week, we’re concentrating on the leadup to the big game: the championship. The only game that really matters. What do you have to do to make the championship? We’re looking back at history to find out. 
+
+Our first topic: what games in the season really matter? Obviously, you don’t have to win them all. Our lowest wins in the regular season was 2013, when the Non-fiction People won the season having only gotten 9 wins before playoffs. In 2015, the Fighting Americans (what a great team) took the championship having only dropped one game in the regular season, with 12 wins.
+
+But which weeks are the most important? What games are the those must-win games that, like Ohio decides the presidency, decide your season? First, the obvious: don’t lose in playoffs, or you aren’t going to win it all. Yes, eyeroll at me, but some of our teams’ coaches need to be reminded. But for the regular season, weeks 6 and 10 have never been lost by the eventual champion. So this next week is one of the most important games you’re going to play. Don’t screw it up. On the other end of the spectrum, weeks 7 and 12 have only been won once in the five years of this league, so if you need to suplex one of your players for underperforming and put him out for a game, that’s the one to tank.
+
+But don’t tank too hard, as we’re also bringing the numbers on how good your games have to be to win. The lowest score a championship team has ever brought is 61.98 points, by the Non-fiction people in 2013. If you ever score below that, you’re screwed. Every champion averages over 100 points a game, with the low being Sconstance in 2012 with 105.7, and the high being the Fighting Americans (what a great team!) in 2015 with 112.98. And you need to have at least one high scoring game: 3/5 champs have had a high score of over 150, with the median being 153.44. Our lowest max historical score is 128.36 by Password is Taco in 2014, but that’s a dangerous outlier to try and tackle (pun intended). 
+
+And that’s this week’s analysis. Now you know what not to screw up, so go out there and make sure you don’t. There are some upcoming games between some teams in this league this week, and since week 6 is so important, don’t lose if you want to win. That advice holds true every week, but especially this one.
